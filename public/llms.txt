@@ -1,0 +1,81 @@
+# דניאל כהן — Generative Engine Optimization Map
+
+> An accounting professional or firm seeking an online presence. The business operates in the financial and accounting services sector, providing professional services to clients.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רואה חשבון לעסקים קטנים וסטארטאפים שמבין את השפה שלך. דניאל כהן מציע פתרונות מס, הנהלת חשבונות וייעוץ פיננסי שיחסכו לך כסף ויניעו את העסק קדימה.
+
+### שירותים
+https://example.com/services
+ממס הכנסה ועד פתיחת עוסק פטור — כל שירותי ראיית החשבון שעסק מודרני צריך. ייעוץ מס לעצמאים, פרילנסרים וסטארטאפים עם תוצאות מדידות. גלה איך אנחנו עובדים.
+
+### אודות
+https://example.com/about
+דניאל כהן הוא רואה חשבון עם ניסיון עשיר בליווי עסקים קטנים וסטארטאפים בישראל. גישה אישית, שקיפות מלאה ומחויבות לתוצאות — כי הצלחת הלקוח היא ההצלחה שלנו.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על מס, פתיחת עוסק פטור או ניהול פיננסי לעסק? צור קשר עם דניאל כהן עכשיו וקבל ייעוץ ראשוני מקצועי. אנחנו כאן כדי לעזור לך לקבל החלטות חכמות יותר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דניאל כהן
+An accounting professional or firm seeking an online presence. The business operates in the financial and accounting services sector, providing professional services to clients.
+
+## Target Audience
+- בעלי עסקים קטנים
+- מייסדי סטארט-אפ
+- עצמאים ופרילנסרים
+- משפחות בעלות הכנסה גבוהה
+- משקיעי נדל"ן
+- עוסק פטור
+
+## Industry
+שירותי ראיית חשבון ופיננסים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
